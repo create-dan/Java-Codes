@@ -1,0 +1,4 @@
+JPA (Java Persistence API) is a Java specification for managing, persisting, and retrieving data between Java objects and relational databases
+
+Hibernate is an open-source Object-Relational Mapping (ORM) framework that implements the JPA specification.
+
